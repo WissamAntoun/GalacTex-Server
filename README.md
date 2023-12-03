@@ -31,7 +31,7 @@ Run the VLLM server with:
 ./run_api_server.sh <MODEL_PATH>
 ```
 
-Then go to the extension setting and set the server endpoint to `http://localhost:<PORT>`.
+Then go to the extension setting and set the server endpoint to `http://localhost:<PORT>/api/generate`.
 
 # Motivation
 
