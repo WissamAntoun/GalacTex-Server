@@ -1,0 +1,5 @@
+vllm==0.2.2
+ray==2.5.1
+typing-inspect==0.8.0
+typing_extensions==4.5.0
+git+https://github.com/long2ice/fastapi-cache@c2d93080578aae491c22d0c412a945122d0097db#egg=fastapi-cache2[memcache]
